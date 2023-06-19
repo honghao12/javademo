@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="huawei-product-maven1" />
+      <option name="name" value="huawei-product-maven1" />
+      <option name="url" value="https://cmc.centralrepo.rnd.huawei.com/artifactory/product_maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://cmc.centralrepo.rnd.huawei.com/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="old-mirrors" />
+      <option name="name" value="old-mirrors" />
+      <option name="url" value="https://mirrors.tools.huawei.com/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="huawei-central-maven1" />
+      <option name="name" value="huawei-central-maven1" />
+      <option name="url" value="https://cmc.centralrepo.rnd.huawei.com/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="product-divista1" />
+      <option name="name" value="product-divista1" />
+      <option name="url" value="https://dgg.maven.repo.cmc.tools.huawei.com/artifactory/Product-divista-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="artifactory-maven1" />
+      <option name="name" value="artifactory-maven1" />
+      <option name="url" value="https://dgg.maven.repo.cmc.tools.huawei.com/artifactory/BPIT-public-maven/" />
+    </remote-repository>
+  </component>
+</project>
